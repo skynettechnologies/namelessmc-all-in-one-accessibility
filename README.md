@@ -133,10 +133,15 @@ English (USA), English (UK), English (Australian), English (Canadian), English (
 ## Installation
 
  Step 1: Upload the allinoneaccessibility.zip file into "modules" folder and unzip.
+ 
  Step 2: After unzipping, you can see the All in One Accessibility plugin in list.
+ 
  Step 3: In admin dashboard, goto Modules, and click on "install" button, which install the plugin.
- Step 3: Click 'Enable' button to get started.
- Step 4: After enable, you can see the "All in One Accessibility" menu in sidebar, click "All in One Accessibility" menu to manage widget.
+ 
+ Step 4: Click 'Enable' button to get started.
+ 
+ Step 5: After enable, you can see the "All in One Accessibility" menu in sidebar, click "All in One Accessibility" menu to manage widget.
+ 
 
 ## CORS Policy Configuration
 
