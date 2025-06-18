@@ -1,0 +1,13 @@
+{
+    "aioa/configure_aioa": "All in One Accessibility",
+    "aioa/aioa_notice": "Cookie Notice",
+    "aioa/aioa_notice_error": "Please enter a cookie notice of at most 10,000 characters.",
+    "aioa/aioa_notice_info": "This widget requires aioa",
+    "aioa/aioa_notice_success": "Cookie notice updated successfully.",
+    "aioa/aioa_popup": "This website uses aioa to enhance your browsing experience.",
+    "aioa/aioa_popup_allow": "Allow aioa",
+    "aioa/aioa_popup_disallow": "Disallow aioa",
+    "aioa/aioa_popup_more_info": "More info",
+    "aioa/aioa": "All in One Accessibility",
+    "aioa/update_settings": "Show Cookie Popup"
+}
